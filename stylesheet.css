@@ -1,0 +1,34 @@
+.MainTitle {
+    background-image: url(./Resources/pattern.jpeg);
+}
+
+.MainTitle h1 {
+    font-size: 100px;
+    font-family: Helvetica;
+    text-align: horizontal;
+    color: khaki;
+}
+
+.Brushes h3 {
+    background-color: mediumspringgreen;
+}
+
+.Frames h3 {
+    background-color: lightcoral;
+}
+
+.Paint h3 {
+    background-color: skyblue;
+}
+
+.title {
+    color: white;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 32px;
+}
+bdi {
+    font-family: Helvetica;
+    color: blue;
+    font-weight: bold;
+}
