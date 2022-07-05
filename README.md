@@ -3,4 +3,4 @@ Codecadamy solo project.
 :)
 ## Two hashes
 
-This is -some- stuff
+This is *some* stuff
